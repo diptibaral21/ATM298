@@ -1,1 +1,13 @@
-In this file I will document the steps for running the project. 
+In this file I will document my rose-bud-thorn for each week of datacamp journey
+
+Week#1 Intro to Git & Advanced Git
+
+Rose: This course was easy to follow along and after taking these courses I got some energy to set up my git account and practice the code for real in my git by creating repos, creating files, learning to stage files, commit and push them to remote. It was so much fun!
+Bud: I talked about using git with my team members at the Climate Hub who apparetly don't use git. I explained how we could do version control with it and they could benefit from it. I explained the concept but when I tried to show them in real time with my commmands skills I learnt the other night, I forgot the code for push (Haha). It was embarrasing. But I told them that after this quarter, I will definitely show them smoothly how to do version control with git. So, that what I look forward to. I will continue using git and also look forward to do the advanced git course and be able to share my learning with my git so I can convince them to start using git.
+Thorn: Nothing really
+
+Week#2 Intro to Shell, Bash Scripting
+
+Rose: I really liked the Intro to Shell. I like that it doesn't have recorded lecture version, but just the description that you can read and understand the commmand for different tasks and practice in terminal. Its nicely structured for someone to start learning shell. Highly recommeneded!
+Bud: I look forward to using my shell scriping skills and access things from terminal like cool people do
+Thorn: I started the Bash Scripting course. The did my first task in terminal and it refuses to move to next! Its annoying I am still stuck there. 
