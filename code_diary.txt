@@ -7,7 +7,9 @@ by creating repos, creating files, learning to stage files, commit and push them
 
 Bud: I talked about using git with my team members at the Climate Hub who apparetly don't use git. I explained how we could do version control with it and they
 could benefit from it. I explained the concept but when I tried to show them in real time with my commmands skills I learnt the other night, I forgot the code 
-for push (Haha). It was embarrasing. But I told them that after this quarter, I will definitely show them smoothly how to do version control with git. So, that what I look forward to. I will continue using git and also look forward to do the advanced git course and be able to share my learning with my git so I can convince them to start using git.
+for push (Haha). It was embarrasing. But I told them that after this quarter, I will definitely show them smoothly how to do version control with git. So, that 
+what I look forward to. I will continue using git and also look forward to do the advanced git course and be able to share my learning with my git so I can 
+convince them to start using git.
 
 Thorn: Nothing really
 
