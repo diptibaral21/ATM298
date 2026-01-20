@@ -1,6 +1,6 @@
 In this file I will document my rose-bud-thorn for each week of datacamp journey
 
-Week#1 Intro to Git & Advanced Git
+Week#1 Intro to Git & Intermediate Git
 
 Rose: This course was easy to follow along and after taking these courses I got some energy to set up my git account and practice the code for real in my git 
 by creating repos, creating files, learning to stage files, commit and push them to remote. It was so much fun!
