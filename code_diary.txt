@@ -21,3 +21,14 @@ commmand for different tasks and practice in terminal. Its nicely structured for
 Bud: I look forward to using my shell scriping skills and access things from terminal like cool people do
 
 Thorn: I started the Bash Scripting course. The did my first task in terminal and it refuses to move to next! Its annoying I am still stuck there. 
+
+Week#3 Visualizing Geospatial Data in Python
+
+Rose: I really liked this course. It teaches how to make geospatial maps. I am not fond of ArcGIS and other similar tools, so I was so happy to be able to make maps 
+using python code. Also, in the course they talk about different map projects and they shared a web comic that says what does your favourite map project says about you.
+Its funny! Here is the link to the comic https://xkcd.com/977/
+
+Bud: I look forward to doing some geospatial Visualization because that's what I will be focusing on for my captson. Also, I could use some help if anyone here has some 
+suggestions for the data source I can use for my capstone project. I would like to do simple geospatial analysis for California agriculture and climate. 
+
+Thorn: I still couldn't figure out my way around the glitch from Bash Scripting. 
