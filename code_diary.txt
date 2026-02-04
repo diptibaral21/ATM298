@@ -22,7 +22,7 @@ Bud: I look forward to using my shell scriping skills and access things from ter
 
 Thorn: I started the Bash Scripting course. The did my first task in terminal and it refuses to move to next! Its annoying I am still stuck there. 
 
-Week#3 Visualizing Geospatial Data in Python
+Week#3 Visualizing Geospatial Data in Python, Supervised Learning with Scikit-Learn, Understanding Data Engineering
 
 Rose: I really liked this course. It teaches how to make geospatial maps. I am not fond of ArcGIS and other similar tools, so I was so happy to be able to make maps 
 using python code. Also, in the course they talk about different map projects and they shared a web comic that says what does your favourite map project says about you.
@@ -32,3 +32,13 @@ Bud: I look forward to doing some geospatial Visualization because that's what I
 suggestions for the data source I can use for my capstone project. I would like to do simple geospatial analysis for California agriculture and climate. 
 
 Thorn: I still couldn't figure out my way around the glitch from Bash Scripting. 
+
+Week#4 Machine Learning with Tree-Based Models in Python
+
+Rose: This course compliments the other class I am taking where we are doing machine learning in R. I prefer python than R, so by doing this course, its complimenting 
+the things I learnt.
+
+Bud: I look forward to completing the course and move to deep learning. 
+
+Thorn: I felt like the concepts about the tree-based learning are not so detailed in the course, like if I hadn't taken other class with machine learning, I wouldn't have 
+been able to understand the process better. 
