@@ -1,6 +1,6 @@
 This is my capstone project for ATM298 class (winter quarter 2026) with Dr. Erwan Monier. 
 
-# Spatiotemporal Mapping of Rice Cultivation in California(1997-2023) Using Python
+# Spatiotemporal Mapping of Rice Cultivation in California(2008-2023) Using Python
 
 ## Overview
 This capstone project maps the spatial distribution of rice cultivation in California from 2008 to 2023 using python-based geospatial analysis. 
@@ -32,4 +32,3 @@ This project focuses on nine major rice growing counties in California's Sacrame
         Source: TIGER: US Census States 2018
         Type: Vector
  
-## Methods
